@@ -1,2 +1,0 @@
-# TugasSensor
-Tugas Sensor
